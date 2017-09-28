@@ -8,9 +8,13 @@ _Provide better infrastructure, services and facilities that suit the needs of s
 
 ### Choose one issues to focus on:
 •	Transport
+
 •	Safety and security
+
 •	Retail and food
+
 •	Recreation and leisure facilities
+
 •	Study facilities
 
 
